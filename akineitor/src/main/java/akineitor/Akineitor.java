@@ -357,188 +357,154 @@ public class Akineitor {
 	}
 
 	public static void generoMAnimalSProtagonistaN() {
-		double p = Double.NaN;
-		if (i[6] == null) {
-			personagem("Seu Sirigueijo");
-		} else if (i[6].equals("S")) {
-			N4b66acd5142();
-		} else if (!i[6].equals("S")) {
-			N459c8072145();
+		int resposta = JOptionPane.showConfirmDialog(null, "O seu personagem tem filhos?");
+		if (resposta == JOptionPane.YES_OPTION) {
+			generoMAnimalSProtagonistaNFilhosS();
+		} else {
+			generoMAnimalSProtagonistaNFilhosN();
 		}
 	}
 
-	public static void N4b66acd5142() {
-		double p = Double.NaN;
-		if (i[5] == null) {
-			personagem("Seu Sirigueijo");
-		} else if (i[5].equals("N")) {
-			N25cd01f7143();
-		} else if (!i[5].equals("N")) {
+	public static void generoMAnimalSProtagonistaNFilhosS() {
+		int resposta = JOptionPane.showConfirmDialog(null, "O seu personagem é um vilão?");
+		if (resposta == JOptionPane.YES_OPTION) {
 			personagem("Scar");
+		} else {
+			generoMAnimalSProtagonistaNFilhosSVilaoN();
 		}
 	}
 
-	public static void N25cd01f7143() {
-		double p = Double.NaN;
-		if (i[9] == null) {
-			personagem("Pluto");
-		} else if (i[9].equals("N")) {
-			N7e33b370144();
-		} else if (!i[9].equals("N")) {
+	public static void generoMAnimalSProtagonistaNFilhosSVilaoN() {
+		int resposta = JOptionPane.showConfirmDialog(null, "O seu personagem é um gordo?");
+		if (resposta == JOptionPane.YES_OPTION) {
 			personagem("Seu Sirigueijo");
+		} else {
+			generoMAnimalSProtagonistaNFilhosSVilaoNGordoN();
 		}
 	}
 
-	public static void N7e33b370144() {
-		double p = Double.NaN;
-		if (i[13] == null) {
+	public static void generoMAnimalSProtagonistaNFilhosSVilaoNGordoN() {
+		int resposta = JOptionPane.showConfirmDialog(null, "O seu personagem é um inteligente?");
+		if (resposta == JOptionPane.YES_OPTION) {
 			personagem("Mufasa");
-		} else if (i[13].equals("S")) {
-			personagem("Mufasa");
-		} else if (!i[13].equals("S")) {
+		} else {
 			personagem("Pluto");
 		}
 	}
 
-	public static void N459c8072145() {
-		double p = Double.NaN;
-		if (i[8] == null) {
-			personagem("Patrick Estrela");
-		} else if (i[8].equals("N")) {
-			N3b628c10146();
-		} else if (!i[8].equals("N")) {
-			N66f82374155();
+	public static void generoMAnimalSProtagonistaNFilhosN() {
+		int resposta = JOptionPane.showConfirmDialog(null, "O seu personagem é baixo?");
+		if (resposta == JOptionPane.YES_OPTION) {
+			generoMAnimalSProtagonistaNFilhosNBaixoS();
+		} else {
+			generoMAnimalSProtagonistaNFilhosNBaixoN();
 		}
 	}
 
-	public static void N3b628c10146() {
-		double p = Double.NaN;
-		if (i[9] == null) {
-			personagem("Lula Molusco");
-		} else if (i[9].equals("N")) {
-			N766de032147();
-		} else if (!i[9].equals("N")) {
-			N63c3e6ba154();
+	public static void generoMAnimalSProtagonistaNFilhosNBaixoN() {
+		int resposta = JOptionPane.showConfirmDialog(null, "O seu personagem é gordo?");
+		if (resposta == JOptionPane.YES_OPTION) {
+			generoMAnimalSProtagonistaNFilhosNBaixoNGordoS();
+		} else {
+			generoMAnimalSProtagonistaNFilhosNBaixoNGordoN();
 		}
 	}
 
-	public static void N766de032147() {
-		double p = Double.NaN;
-		if (i[11] == null) {
-			personagem("Lula Molusco");
-		} else if (i[11].equals("S")) {
-			N152675bc148();
-		} else if (!i[11].equals("S")) {
-			N2c0efd1151();
+	public static void generoMAnimalSProtagonistaNFilhosNBaixoNGordoN() {
+		int resposta = JOptionPane.showConfirmDialog(null, "O seu personagem usa roupas?");
+		if (resposta == JOptionPane.YES_OPTION) {
+			generoMAnimalSProtagonistaNFilhosNBaixoNGordoNRoupasS();
+		} else {
+			generoMAnimalSProtagonistaNFilhosNBaixoNGordoNRoupasN();
 		}
 	}
 
-	public static void N152675bc148() {
-		double p = Double.NaN;
-		if (i[7] == null) {
+	public static void generoMAnimalSProtagonistaNFilhosNBaixoNGordoNRoupasS() {
+		int resposta = JOptionPane.showConfirmDialog(null, "O seu personagem é alto?");
+		if (resposta == JOptionPane.YES_OPTION) {
 			personagem("Pateta");
-		} else if (i[7].equals("S")) {
-			personagem("Pateta");
-		} else if (!i[7].equals("S")) {
-			N3418e87a149();
+		} else {
+			generoMAnimalSProtagonistaNFilhosNBaixoNGordoNRoupasSAltoN();
 		}
 	}
 
-	public static void N3418e87a149() {
-		double p = Double.NaN;
-		if (i[12] == null) {
+	public static void generoMAnimalSProtagonistaNFilhosNBaixoNGordoNRoupasSAltoN() {
+		int resposta = JOptionPane.showConfirmDialog(null, "O seu personagem usa roupas vermelhas?");
+		if (resposta == JOptionPane.YES_OPTION) {
 			personagem("Tio Patinhas");
-		} else if (i[12].equals("Vermelho")) {
-			personagem("Tio Patinhas");
-		} else if (!i[12].equals("Vermelho")) {
-			N1bb5e0e5150();
+		} else {
+			generoMAnimalSProtagonistaNFilhosNBaixoNGordoNRoupasSAltoNVermelhoN();
 		}
 	}
 
-	public static void N1bb5e0e5150() {
-		double p = Double.NaN;
-		if (i[12] == null) {
+	public static void generoMAnimalSProtagonistaNFilhosNBaixoNGordoNRoupasSAltoNVermelhoN() {
+		int resposta = JOptionPane.showConfirmDialog(null, "O seu personagem usa roupas azuis?");
+		if (resposta == JOptionPane.YES_OPTION) {
 			personagem("Donald");
-		} else if (i[12].equals("Azul")) {
-			personagem("Donald");
-		} else if (!i[12].equals("Azul")) {
+		} else {
 			personagem("Lula Molusco");
 		}
 	}
 
-	public static void N2c0efd1151() {
-		double p = Double.NaN;
-		if (i[14] == null) {
+	public static void generoMAnimalSProtagonistaNFilhosNBaixoNGordoNRoupasN() {
+		int resposta = JOptionPane.showConfirmDialog(null, "O seu personagem é idiota?");
+		if (resposta == JOptionPane.YES_OPTION) {
+			generoMAnimalSProtagonistaNFilhosNBaixoNGordoNRoupasNIdiotaS();
+		} else {
 			personagem("Gary Caracol");
-		} else if (i[14].equals("N")) {
-			personagem("Gary Caracol");
-		} else if (!i[14].equals("N")) {
-			N24ede1a0152();
 		}
 	}
 
-	public static void N24ede1a0152() {
-		double p = Double.NaN;
-		if (i[16] == null) {
-			personagem("Patolino");
-		} else if (i[16].equals("N")) {
-			N5745867f153();
-		} else if (!i[16].equals("N")) {
+	public static void generoMAnimalSProtagonistaNFilhosNBaixoNGordoNRoupasNIdiotaS() {
+		int resposta = JOptionPane.showConfirmDialog(null, "O seu personagem é medroso?");
+		if (resposta == JOptionPane.YES_OPTION) {
 			personagem("Frajola");
+		} else {
+			generoMAnimalSProtagonistaNFilhosNBaixoNGordoNRoupasNIdiotaSMedrosoN();
 		}
 	}
 
-	public static void N5745867f153() {
-		double p = Double.NaN;
-		if (i[17] == null) {
+	public static void generoMAnimalSProtagonistaNFilhosNBaixoNGordoNRoupasNIdiotaSMedrosoN() {
+		int resposta = JOptionPane.showConfirmDialog(null, "O seu personagem tem cor predominante marrom?");
+		if (resposta == JOptionPane.YES_OPTION) {
 			personagem("Taz");
-		} else if (i[17].equals("Marrom")) {
-			personagem("Taz");
-		} else if (!i[17].equals("Marrom")) {
+		} else {
 			personagem("Patolino");
 		}
 	}
 
-	public static void N63c3e6ba154() {
-		double p = Double.NaN;
-		if (i[11] == null) {
+	public static void generoMAnimalSProtagonistaNFilhosNBaixoNGordoS() {
+		int resposta = JOptionPane.showConfirmDialog(null, "O seu personagem usa roupas?");
+		if (resposta == JOptionPane.YES_OPTION) {
 			personagem("Patrick Estrela");
-		} else if (i[11].equals("S")) {
-			personagem("Patrick Estrela");
-		} else if (!i[11].equals("S")) {
+		} else {
 			personagem("Pumba");
 		}
 	}
 
-	public static void N66f82374155() {
-		double p = Double.NaN;
-		if (i[5] == null) {
-			personagem("Timão");
-		} else if (i[5].equals("N")) {
-			N2d532eea156();
-		} else if (!i[5].equals("N")) {
+	public static void generoMAnimalSProtagonistaNFilhosNBaixoS() {
+		int resposta = JOptionPane.showConfirmDialog(null, "O seu personagem é um vilão?");
+		if (resposta == JOptionPane.YES_OPTION) {
 			personagem("Sheldon J. Plankton");
+		} else {
+			generoMAnimalSProtagonistaNFilhosNBaixoSVilaoN();
 		}
 	}
 
-	public static void N2d532eea156() {
-		double p = Double.NaN;
-		if (i[11] == null) {
-			personagem("Hortelino");
-		} else if (i[11].equals("S")) {
-			N56de2341157();
-		} else if (!i[11].equals("S")) {
+	public static void generoMAnimalSProtagonistaNFilhosNBaixoSVilaoN() {
+		int resposta = JOptionPane.showConfirmDialog(null, "O seu personagem usa roupas?");
+		if (resposta == JOptionPane.YES_OPTION) {
+			generoMAnimalSProtagonistaNFilhosNBaixoSVilaoNRoupasS();
+		} else {
 			personagem("Timão");
 		}
 	}
 
-	public static void N56de2341157() {
-		double p = Double.NaN;
-		if (i[12] == null) {
+	public static void generoMAnimalSProtagonistaNFilhosNBaixoSVilaoNRoupasS() {
+		int resposta = JOptionPane.showConfirmDialog(null, "O seu personagem usa roupa azul?");
+		if (resposta == JOptionPane.YES_OPTION) {
 			personagem("Gaguinho");
-		} else if (i[12].equals("Azul")) {
-			personagem("Gaguinho");
-		} else if (!i[12].equals("Azul")) {
+		} else {
 			personagem("Hortelino");
 		}
 	}
