@@ -7,7 +7,14 @@ public class Akineitor {
 	public static Object[] i = new Object[] {};
 
 	public static void main(String[] args) {
-		raiz();
+		while (true) {
+			int resposta = JOptionPane.showConfirmDialog(null, "Iniciar um novo jogo?");
+			if (resposta == JOptionPane.YES_OPTION) {
+				raiz();
+			} else {
+				break;
+			}
+		}
 	}
 
 	public static void personagem(String nome) {
