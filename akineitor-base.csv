@@ -1,0 +1,76 @@
+Personagem,Gênero,Idade,Animal,Protagonista,Vilão,Tem filho(s),Alto,Baixo,Gordo,Cor Cabelo,Usa roupas,Cor da Roupa,Inteligente,Idiota,Rico,Medroso,Cor predominante,Espécie
+Rick,Masculino,Idoso,N,S,N,S,S,N,N,Azul,S,Branco,S,N,N,N,Caucasiano,Humano
+Morty,Masculino,Adolescente,N,S,N,S,N,N,N,Castanho,S,Amarelo,N,N,N,S,Caucasiano,Humano
+Beth,Feminino,Adulto,N,N,N,S,S,N,N,Loiro,S,Vermelho,N,N,N,N,Caucasiano,Humano
+Jerry Smith,Masculino,Adulto,N,N,N,S,S,N,N,Castanho,S,Verde,N,S,N,S,Caucasiano,Humano
+Sr. Tobinha Sujo,Masculino,Adulto,N,N,N,S,N,S,N,,S,Azul,N,N,N,N,Amarelo,
+Summer,Feminino,Adolescente,N,N,N,N,N,N,N,Ruivo,S,Rosa,N,N,N,N,Cucasiano,Humano
+Finn,Masculino,Adolescente,N,S,N,N,N,N,N,Loiro,S,Azul,N,N,N,N,Caucasiano,Humano
+Jake,Masculino,Adulto,S,S,N,S,N,N,N,,N,,S,N,N,N,Amarelo,Cão
+Princesa Jujuba,Feminino,Adulto,N,N,N,N,S,N,N,Rosa,S,Rosa,S,N,S,N,Rosa,Doce
+Irmão do Jorel,Masculino,Criança,N,S,N,N,N,N,N,Preto,S,Preto,N,S,N,N,Caucasiano,Humano
+Jorel,Masculino,Adolescente,N,N,N,N,S,N,N,Castanho,S,Roxo,S,N,N,N,Pardo,Humano
+Pica Pau,Masculino,,S,S,N,N,N,N,N,,N,,N,S,N,N,Azul,Pica pau
+Mônica,Feminino,Criança,N,S,N,N,N,S,S,Preto,S,Vermelho,N,N,N,N,Caucasiano,Humano
+Cebolinha,Masculino,Criança,N,N,N,N,N,N,N,Preto,S,Verde,N,N,N,N,Caucasiano,Humano
+Magali,Feminino,Criança,N,N,N,N,N,N,N,Preto,S,Amarelo,N,N,N,N,Caucasiano,Humano
+Cascão,Masculino,Criança,N,N,N,N,N,N,N,Preto,S,Amarelo,N,N,N,N,Caucasiano,Humano
+Franjinha,Masculino,Criança,N,N,N,N,N,N,N,Loiro,S,Vermelho,S,N,N,N,Caucasiano,Humano
+Bob esponja,Masculino,Adulto,S,S,N,N,N,N,N,,S,Branco,N,S,N,N,Amarelo,Esponja do mar
+Patrick Estrela,Masculino,Adulto,S,N,N,N,N,N,S,,S,Verde,N,S,N,N,Rosa,Estrela do mar
+Seu Sirigueijo,Masculino,Adulto,S,N,N,S,N,N,S,,S,Azul,N,N,S,N,Vermelho,Carangueijo
+Lula Molusco,Masculino,Adulto,S,N,N,N,N,N,N,,S,Marrom,S,N,N,N,Azul,Polvo
+Sandy Esquilo,Feminino,Adulto,S,N,N,N,N,N,N,,S,Branco,S,N,N,N,Marrom,Esquilo
+Sheldon J. Plankton,Masculino,Adulto,S,N,S,N,N,S,N,,N,,S,N,N,N,Verde,Plankton
+Gary,Masculino,,S,N,N,N,N,N,N,,N,,N,N,N,N,Azul,Caracol
+Bojack Horseman,Masculino,Adulto,S,S,N,N,S,N,S,Preto,S,Cinza,N,N,S,N,Marrom,Cavalo
+Homer Simpson,Masculino,Adulto,N,S,N,S,N,N,S,,S,Branco,N,S,N,N,Amarelo,Humano
+Marge Simpson,Feminino,Adulto,N,S,N,S,S,N,N,Azul,S,Verde,N,N,N,N,Amarelo,Humano
+Bart Simpson,Masculino,Criança,N,S,N,N,N,N,N,Loiro,S,Vermelho,N,N,N,N,Amarelo,Humano
+Lisa Simpson,Masculino,Criança,N,S,N,N,N,N,N,Loiro,S,Vermelho,S,N,N,N,Amarelo,Humano
+Maggie Simpson,Feminino,Criança,N,S,N,N,N,N,N,Loiro,S,Azul,N,N,N,N,Amarelo,Humano
+Tom,Masculino,,S,S,N,N,N,N,N,,N,,N,S,N,N,Cinza,Gato
+Jerry,Masculino,,S,S,N,N,N,S,N,,N,,N,N,N,N,Marrom,Rato
+Mickey Mouse,Masculino,Adulto,S,S,N,N,N,S,N,,S,Vermelho,N,N,N,N,Preto,Rato
+Minnie Mouse,Feminino,Adulto,S,N,N,N,N,S,N,,S,Vermelho,N,N,N,N,Preto,Rato
+Pluto,Masculino,,S,N,N,S,N,N,N,,N,,N,N,N,N,Amarelo,Cão
+Donald,Masculino,Adulto,S,N,N,N,N,N,N,,S,Azul,N,N,N,N,Branco,Pato
+Pateta,Masculino,Adulto,S,N,N,N,S,N,N,,S,Laranja,N,N,N,N,Preto,Cão
+Tio Patinhas,Masculino,Adulto,S,N,N,N,N,N,N,,S,Vermelho,N,N,S,N,Branco,Pato
+Coragem,Masculino,,S,S,N,N,N,N,N,,N,,N,S,N,S,Rosa,Cão
+Docinho,Feminino,Criança,N,S,N,N,N,S,N,Preto,S,Verde,N,N,N,N,Caucasiano,Humano
+Lindinha,Feminino,Criança,N,S,N,N,N,S,N,Loiro,S,Azul,N,S,N,N,Caucasiano,Humano
+Florzinha,Feminino,Criança,N,S,N,N,N,S,N,Ruivo,S,Rosa,S,N,N,N,Caucasiano,Humano
+Professor Utônio,Masculino,Adulto,N,N,N,S,N,N,N,Preto,S,Branco,S,N,N,N,Caucasiano,Humano
+Dumbo,Masculino,Criança,S,S,N,N,N,N,S,,N,,N,N,N,S,Cinza,Elefante
+Mufasa,Masculino,Adulto,S,N,N,S,N,N,N,Vermelho,N,,S,N,N,N,Amarelo,Leão
+Simba,Masculino,,S,S,N,S,N,N,N,Vermelho,N,,N,N,N,N,Amarelo,Leão
+Scar,Masculino,Adulto,S,N,S,S,N,N,N,Preto,N,,N,N,N,N,Amarelo,Leão
+Timão,Masculino,Adulto,S,N,N,N,N,S,N,Vermelho,N,,N,S,N,S,Amarelo,Suricate
+Pumba,Masculino,Adulto,S,N,N,N,N,N,S,Preto,N,,N,S,N,S,Marrom,Javali
+Scooby-doo,Masculino,Adulto,S,S,N,N,N,N,N,,N,,N,S,N,S,Marrom,Cão
+Salsicha,Masculino,Adulto,N,S,N,N,S,N,N,Castanho,S,Verde,N,S,N,S,Caucasiano,Humano
+Fred,Masculino,Adulto,N,S,N,N,N,N,N,Loiro,S,Branco,N,N,N,N,Caucasiano,Humano
+Daphne,Feminino,Adulto,N,S,N,N,N,N,N,Ruivo,S,Roxo,N,N,S,N,Caucasiano,Humano
+Velma,Feminino,Adulto,N,S,N,N,N,S,N,Castanho,S,Laranja,S,N,N,N,Caucasiano,Humano
+Pernalonga,Masculino,Adulto,S,S,N,N,S,N,N,,N,,N,S,N,N,Cinza,Coelho
+Patolino,Masculino,Adulto,S,N,N,N,N,N,N,,N,,N,S,N,N,Preto,Pato
+Hortelino,Masculino,Adulto,S,N,N,N,N,S,N,,S,Marrom,N,S,N,N,Caucasiano,Humano
+Frajola,Masculino,Adulto,S,N,N,N,N,N,N,,N,,N,S,N,S,Preto,Gato
+Gaguinho,Masculino,Adulto,S,N,N,N,N,S,N,,S,Azul,N,S,N,N,Rosa,Porco
+Taz,Masculino,Adulto,S,N,N,N,N,N,N,,N,,N,S,N,N,Marrom,Demônio da Tazmânia
+Fred Flinstone,Masculino,Adulto,N,S,N,S,N,N,S,Preto,S,Laranja,N,N,N,N,Caucasiano,Humano
+Wilma Flinstone,Feminino,Adulto,N,S,N,S,N,N,N,Ruivo,S,Branco,N,N,N,N,Caucasiano,Humano
+Pedrita Flinstone,Feminino,Criança,N,N,N,N,N,N,N,Ruivo,S,Verde,N,N,N,N,Caucasiano,Humano
+Barney Rubble,Masculino,Adulto,N,S,N,S,N,S,N,Loiro,S,Marrom,N,N,N,N,Caucasiano,Humano
+Betty Rubble,Masculino,Adulto,N,S,N,S,N,N,N,Preto,S,Azul,N,N,N,N,Caucasiano,Humano
+Bam Bam Rubble,Masculino,Criança,N,N,N,N,N,N,N,Branco,S,Laranja,N,N,N,N,Caucasiano,Humano
+Gato Félix,Masculino,,S,S,N,N,N,N,N,,N,,N,S,N,N,Preto,Gato
+Popeye,Masculino,Adulto,N,S,N,S,N,S,N,,S,Preto,N,S,N,N,Caucasiano,Humano
+Olívia Palito,Feminino,Adulto,N,S,N,S,N,N,N,Preto,S,Vermelho,N,N,N,N,Caucasiano,Humano
+Brutus,Masculino,Adulto,N,N,S,N,S,N,S,Preto,S,Azul,N,S,N,N,Caucasiano,Humano
+Steven Universe,Masculino,Criança,N,S,N,N,N,S,N,Preto,S,Rosa,N,N,N,N,Caucasiano,Humano
+Greg Universe,Masculino,Adulto,N,N,N,S,N,N,S,Castanho,S,Branco,N,N,N,N,Caucasiano,Humano
+Pérola,Feminino,Adulto,N,N,N,N,N,N,N,Castanho,S,Azul,S,N,N,N,Branco,Gem
+Garnet,Feminino,Adulto,N,N,N,N,S,N,N,Preto,S,Vermelho,N,N,N,N,Roxo,Gem
+Ametista,Feminino,Adulto,N,N,N,N,N,S,N,Branco,S,Branco,N,S,N,N,Roxo,Gem
